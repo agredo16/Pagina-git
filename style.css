@@ -4,7 +4,7 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style: none;
-    align-items: center;
+    align-items: ;
 }
 
 body{
@@ -18,20 +18,14 @@ body{
 
 .general {
     display: flex;
-    width: fit-content;
-    display: flex;
+    align-items: center;
     margin: 0 auto;
-    flex-direction: column;
-    text-align: center;
+    
 }
 .general-1 {
-    width: fit-content;
-    background-color:#fff;
-    display: flex;
-    margin: 0 auto;
-    flex-direction: column;
-    text-align: center;
-}
+    width: 50%;
+    padding: 100px 250px 100px 100px;
+    background-color:#fff;}
 
 
 .general-1{
